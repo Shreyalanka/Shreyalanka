@@ -2,8 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on .
-- 📫 How to reach me ...www.linkedin.com/in/
-shreya-lanka-1912sh2002
+- 📫 How to reach me ...www.linkedin.com/in/shreya-lanka-1912sh2002
 
 
 <!---
